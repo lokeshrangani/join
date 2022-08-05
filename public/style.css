@@ -1,0 +1,64 @@
+ * {
+ 	margin: 0;
+ 	padding: 0;
+ 	box-sizing: border-box;
+ }
+
+ #intro {
+ 	background-color: #e6ffe6;
+ 	color: #000000;
+ 	height: 5%;
+ }
+
+ body {
+ 	font: 20px;
+ 	margin: auto;
+ 	width: 50%;
+ 	border-radius: 5px;
+ 	padding: 10px;
+ }
+
+ form {
+ 	background: #fffdfd;
+ 	position: fixed;
+ 	bottom: 5px;
+ 	margin: auto;
+ 	width: 50%;
+ 	padding: 10px;
+ }
+
+ form input {
+ 	background-color: #f1f1f1;
+ 	border: 0;
+ 	border-radius: 5px;
+ 	padding: 10px;
+ 	width: 90%;
+ 	margin-right: 0.5%;
+ }
+
+ form button {
+ 	width: 9%;
+ 	background: #7ba1b1;
+ 	border: none;
+ 	border-radius: 25px;
+ 	padding: 5px;
+ 	font-size: 20px;
+ }
+
+ #messages {
+ 	margin: 0;
+ 	padding: 0;
+ }
+
+ #messages li {
+ 	padding: 5px 10px;
+ 	list-style-type: none;
+ }
+
+ #messages li:nth-child(odd) {
+ 	background: #e6f5f7;
+ }
+
+ #list {
+ 	text-align: right;
+ }
