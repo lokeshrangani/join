@@ -5,4 +5,4 @@ In this project, a real-time chat application has been developed which will run 
 
 ## Try it out!
 
-[JOIN]()
+[JOIN](https://quilted-short-marmot.glitch.me/)
